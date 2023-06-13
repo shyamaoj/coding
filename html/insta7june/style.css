@@ -1,0 +1,25 @@
+.form
+{
+    margin: auto;
+    
+}
+.image{
+
+}
+.page{
+    display: flex;
+    justify-content: center;
+}
+#ig{
+    width: 40px;
+    height: 40px;
+    display: flex;
+}
+#hl{
+    display: flex;
+    width: 100px;
+    height: 20px;
+}
+#separator{
+        display:;
+}

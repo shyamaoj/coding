@@ -1,0 +1,35 @@
+.ai{
+    display: flex;
+
+    gap: 30px;
+}
+.form{
+    text-align: center;
+    padding-top: 100px;
+    border: 1px solid gray;
+    width: 30%;
+}
+.img{
+  
+    width: 50%;
+    left: 10px;
+    text-align: right;
+
+}
+.logo{
+    text-align: center;
+    width: 200px;
+    width: 100%;
+}
+.abhi{
+    
+    margin-bottom: 20px;
+}
+.mahi{
+    width: 200px;
+    background-color:#4779EC;
+}
+.fid{
+    width: 20px;
+    height: 20px;
+}

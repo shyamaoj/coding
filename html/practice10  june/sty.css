@@ -1,0 +1,30 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: 2px solid black;
+    margin: 5px;
+  
+    
+}
+
+#box1
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: 2px solid black;
+    margin: 5px;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

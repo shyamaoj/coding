@@ -1,0 +1,16 @@
+body{
+    background-image: url(photo-1682686581264-c47e25e61d95.avif);
+    background-size:auto;
+}
+h1{
+    font-weight: 100;
+    font-style: italic;
+    background-color: aquamarine;
+    text-align: center;
+    border: 5px solid #E4AB00;
+    cursor: pointer;
+    display: inline-block;
+}
+li{
+    list-style: none;
+}
